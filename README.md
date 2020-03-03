@@ -1,10 +1,11 @@
-# Discussions about climate and Julia
+# Discussions About Climate And JuliaClimate
 
-The repository is the central place for discussions about possible options and implementation for climate related packages.
+This repository is a place for discussion of climate related packages and of the `JuliaClimate` organization.
 
-_Organization logo design:_ @cormullion & the @JuliaClimate community [code is here](https://bit.ly/3anhdMp)
+<img src="https://github.com/gaelforget/meta/raw/gfdev01/docs/juliaclimatelogo.png" width="50%">
 
-<img src="docs/images/juliaclimatelogo.png" width="50%">
+_**Organization logo design:** @cormullion & the @JuliaClimate community [code is here](https://bit.ly/3anhdMp)_
+
 
 
 
